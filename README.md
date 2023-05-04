@@ -1,2 +1,2 @@
-# computer-science-course
+# Computer Science Course
 Course from UBLivre
